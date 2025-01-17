@@ -1,0 +1,41 @@
+*{
+    font-family: sans-serif;
+}
+.cane{
+    border-radius: 0px;
+    background-color: black;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 20px;
+    
+}
+.card-body p{
+    color: rgb(69, 181, 255);
+    font-weight: 500;
+}
+.container2{
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+    padding-left: 15px;
+    flex-wrap: wrap;
+    
+}
+.body{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+}
+.paragrafo{
+    padding: 20px 0px ;
+    text-align: center;
+    font-size: 18px;
+}
+.body h1{
+    padding: 20px 0px;
+    color: rgb(204, 0, 177);
+}
